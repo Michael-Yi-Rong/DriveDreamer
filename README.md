@@ -31,3 +31,4 @@ https://github.com/user-attachments/assets/127bbcff-9f24-4f01-b304-061b03d4410b
 
 https://github.com/user-attachments/assets/45a3461f-601c-4504-b79c-8f405c68d7bc
 
+* video training not finished yet.
